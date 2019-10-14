@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     String displayNum ="";
     String op;
     int num1 ,num2, res;
-    int abc;
+    int abc,abcc;
 
 
     @Override
